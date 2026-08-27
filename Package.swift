@@ -11,9 +11,9 @@ let package = Package(
         .binaryTarget(
             name: "AdjustSignature",
             // swiftlint:disable line_length
-            url: "https://github.com/adjust/adjust_signature_sdk/releases/download/v5.0.0/AdjustSigSdk-iOS-tvOS-Dynamic-5.0.0.xcframework.zip",
+            url: "https://github.com/adjust/adjust_signature_sdk/releases/download/v5.5.0/AdjustSigSdk-iOS-tvOS-Dynamic-5.5.0.xcframework.zip",
             // swiftlint:enable line_length
-            checksum: "0075b150fdfe792aedab182c4f4b3bdfe6ce89d61b016e15606ef9bd5c2a35d1"
+            checksum: "fe72fc3e8da091eb438de3ae0f9dff32661767ddf3b1165550e8b188c8eb5672"
         )
     ]
 )
